@@ -1,0 +1,47 @@
+[
+    {
+      "title": "Introduction to Node.js",
+      "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "category": "Programming",
+      "author": "Jane Doe",
+      "image":  "https://via.placeholder.com/800x400.png?text=Getting+Started+with+Node.js",
+      "createdAt": "2024-07-15T10:00:00Z",
+      "updatedAt": "2024-07-15T10:00:00Z"
+    },
+    {
+      "title": "Getting Started with MongoDB",
+      "content": "MongoDB is a NoSQL database that uses a document-oriented data model.",
+      "category": "Database",
+      "author": "John Smith",
+      "image": "https://via.placeholder.com/800x400.png?text=Getting+Started+with+MongoDB",
+      "createdAt": "2024-07-16T11:00:00Z",
+      "updatedAt": "2024-07-16T11:00:00Z"
+    },
+    {
+      "title": "Exploring Express.js",
+      "content": "Express.js is a popular web framework for Node.js.",
+      "category": "Framework",
+      "author": "Alice Johnson",
+      "image": "https://via.placeholder.com/800x400.png?text=Exploring+Express.js",
+      "createdAt": "2024-07-17T12:00:00Z",
+      "updatedAt": "2024-07-17T12:00:00Z"
+    },
+    {
+        "title": "Understanding RESTful APIs",
+        "content": "RESTful APIs (Representational State Transfer) are a set of design principles for creating web services.",
+        "category": "API",
+        "author": "Bob Brown",
+        "image": "https://via.placeholder.com/800x400.png?text=Understanding+RESTful+APIs",
+        "createdAt": "2024-07-18T13:00:00Z",
+        "updatedAt": "2024-07-18T13:00:00Z"
+    },
+    {
+        "title": "Introduction to JavaScript ES6",
+        "content": "ECMAScript 6 (ES6), also known as ECMAScript 2015, introduced a number of new features to JavaScript.",
+        "category": "JavaScript",
+        "author": "Emily Davis",
+        "image": "https://via.placeholder.com/800x400.png?text=Introduction+to+JavaScript+ES6",
+        "createdAt": "2024-07-19T14:00:00Z",
+        "updatedAt": "2024-07-19T14:00:00Z"
+    }
+]
